@@ -1,0 +1,11 @@
+target,comparison,positive_improvement,95% CI,99.5% adjusted CI
+effectiveness,gated_mlp_vs_content_mlp,0.0211966691041898,"[-0.0012, 0.0446]","[-0.0117, 0.0536]"
+effectiveness,combined_ft_vs_content_ft,-0.0071011859190809,"[-0.0507, 0.0375]","[-0.0699, 0.0526]"
+funny,gated_mlp_vs_content_mlp,0.0092114504915543,"[0.0041, 0.0146]","[0.0016, 0.0168]"
+funny,combined_ft_vs_content_ft,0.025486310708904,"[0.0051, 0.0460]","[-0.0019, 0.0542]"
+exciting,gated_mlp_vs_content_mlp,0.0053917915874476,"[-0.0005, 0.0114]","[-0.0030, 0.0142]"
+exciting,combined_ft_vs_content_ft,0.0267106907461162,"[0.0037, 0.0503]","[-0.0059, 0.0607]"
+sentiment,gated_mlp_vs_content_mlp,-0.0028018696655575,"[-0.0185, 0.0124]","[-0.0277, 0.0174]"
+sentiment,combined_ft_vs_content_ft,-0.0171762357209851,"[-0.0322, -0.0023]","[-0.0389, 0.0026]"
+topic,gated_mlp_vs_content_mlp,-0.020295118589685,"[-0.0382, -0.0027]","[-0.0470, 0.0042]"
+topic,combined_ft_vs_content_ft,-0.0245124257585215,"[-0.0471, -0.0009]","[-0.0570, 0.0104]"
